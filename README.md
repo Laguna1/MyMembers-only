@@ -1,7 +1,7 @@
 # README
 
 ![1](./Screenshot-2)
-![1](./Screenshot-3)
+![2](./Screenshot-3)
 
 ## Authors
 
