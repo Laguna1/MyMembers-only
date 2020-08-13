@@ -1,7 +1,7 @@
 # README
 
-![1](./Screenshot-2)
-![2](./Screenshot-3)
+![1](./Logout.png)
+![2](./Signup.png)
 
 ## Authors
 
