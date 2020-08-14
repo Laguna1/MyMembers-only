@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+# code linter
 gem 'rubocop', '~>0.81.0'
 
 # Reduces boot times through caching; required in config/boot.rb
